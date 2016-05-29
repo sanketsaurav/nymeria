@@ -1,5 +1,5 @@
-hash: b95e3a4350e9e67b30ddee34a33c41a4d91055829b0a701ecd38bec0323ce76e
-updated: 2016-05-29T17:40:37.973073667+05:30
+hash: f9e97fdd64cbe25102e3ed7f78ba4984f9ecb13ce4b8eab41587f683b99051e9
+updated: 2016-05-29T22:52:38.000713257+05:30
 imports:
 - name: github.com/BurntSushi/toml
   version: f0aeabca5a127c4078abb8c8d64298b147264b55
@@ -20,8 +20,6 @@ imports:
   - json/token
 - name: github.com/magiconair/properties
   version: c265cfa48dda6474e208715ca93e987829f572f8
-- name: github.com/Medium/medium-sdk-go
-  version: 6793afb44e5b6b265526292feecc7385c88e8718
 - name: github.com/mitchellh/mapstructure
   version: d2dd0262208475919e1a362f675cfc0e7c10e905
 - name: github.com/sanketsaurav/medium-sdk-go
