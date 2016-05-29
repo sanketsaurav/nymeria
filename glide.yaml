@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/Medium/medium-sdk-go
+- package: github.com/spf13/viper
+- package: github.com/go-sql-driver/mysql
+- package: github.com/sanketsaurav/medium-sdk-go

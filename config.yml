@@ -1,0 +1,10 @@
+# Ghost database details
+GHOST_DB_TYPE: mysql
+GHOST_DB_NAME: ghost
+GHOST_DB_HOST: 172.17.0.2
+GHOST_DB_USERNAME: root
+GHOST_DB_PASSWORD: toorroot
+
+# Create a Medium client with a self issued acees-toke.
+# Can be geenrated under `Integration tokens` here - https://medium.com/me/settings
+MEDIUM_INTEGRATION_TOKEN: 2edb41e95c275983fa2cb833fe5a35dcf60ef2c0725ca58089ccba606720584f4
